@@ -45,4 +45,4 @@ producer over Kafka, and LOGs the message.
 
 execute `./gradlew bootRun`
 
-*Consumer works with 
+*Consumer works with https://github.com/cricketsamya/kafka-producer
