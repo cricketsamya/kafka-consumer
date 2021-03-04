@@ -41,4 +41,4 @@ Spring Boot Application using Kafka Consumer with Zookeeper
 
 execute `./gradlew bootRun` 
 
-*Consumer works with 
+*Consumer works with https://github.com/cricketsamya/kafka-producer
