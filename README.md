@@ -10,7 +10,7 @@ producer over Kafka, and LOGs the message.  Next step is to Containerize.
 ## Zookeeper Setup
 
 1. Download and Unzip Zookeeper.
-2. Goto `conf` directory. Then `cp zoo_sample.cfgas zoo.cfg`
+2. Goto `conf` directory. Then `cp zoo_sample.cfg zoo.cfg`
 3. Optional: Change `dataDir` in the `zoo.cfg`, as default is pointed to `/tmp/data`.
 
 ## To start Zookeeper
