@@ -1,5 +1,9 @@
 # kafka-consumer
+
 Spring Boot Application using Kafka Consumer with Zookeeper
+
+Consumer consumes messages `MessageObject(identifier=d7ea610b-9087-438c-9b52-1913a17ec2a9, action=SEND EMAIL)` from
+producer over Kafka, and LOGs the message.
 
 *Note: Java 11 is required.
 
@@ -39,6 +43,6 @@ Spring Boot Application using Kafka Consumer with Zookeeper
 
 ## To run Consumer
 
-execute `./gradlew bootRun` 
+execute `./gradlew bootRun`
 
 *Consumer works with 
