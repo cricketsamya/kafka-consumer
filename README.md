@@ -3,7 +3,7 @@
 Spring Boot Application using Kafka Consumer with Zookeeper
 
 Consumer consumes messages `MessageObject(identifier=d7ea610b-9087-438c-9b52-1913a17ec2a9, action=SEND EMAIL)` from
-producer over Kafka, and LOGs the message.
+producer over Kafka, and LOGs the message.  Next step is to Containerize
 
 *Note: Java 11 is required.
 
